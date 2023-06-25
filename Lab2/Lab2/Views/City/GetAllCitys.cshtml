@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Lab2.City>
+
+<p>
+    @Html.ActionLink("Add New City", "AddCity")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CityName)
+        </th>
+        
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        @Html.HiddenFor(model => item.Id)
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CityName)
+            </td>
+           
+            <td>
+                @Html.ActionLink("Edit", "EditCity", new { id = item.Id }) |
+                @Html.ActionLink("Delete", "DeleteCity", new { id = item.Id }, new { onclick = "return confirm('Are sure wants to delete?');" })
+            </td>
+        </tr>
+    }
+
+</table> 

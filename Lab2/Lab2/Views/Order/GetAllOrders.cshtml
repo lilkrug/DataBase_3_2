@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Lab2.Order>
+
+<p>
+    @Html.ActionLink("Add New Order", "AddOrder")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CustomerName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ServiceId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OrderDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OrderExec)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        @Html.HiddenFor(model => item.Id)
+<tr>
+    <th>
+        @Html.DisplayNameFor(model => model.CustomerName)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.ServiceId)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.OrderDate)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.OrderExec)
+    </th>
+    <td>
+        @Html.ActionLink("Edit", "EditOrder", new { id = item.Id }) |
+        @Html.ActionLink("Delete", "DeleteOrder", new { id = item.Id }, new { onclick = "return confirm('Are sure wants to delete?');" })
+    </td>
+</tr>
+    }
+
+</table> 

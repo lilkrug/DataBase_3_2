@@ -1,0 +1,44 @@
+﻿@model Lab2.Models.ServiceViewModel
+
+<p>
+    @Html.ActionLink("Add New Service", "AddService")
+</p>
+
+<form method="get">
+    <div class="form-inline">
+        <label class="control-label">Статус: </label>
+        @Html.DropDownList("status", Model.Statuses as SelectList,
+                    htmlAttributes: new { @class = "form-control" })
+
+        <input type="submit" value="Фильтр" class="btn btn-default" />
+    </div>
+</form>
+
+<table class="table">
+    <tr>
+        <th>Id</th>
+        <th>ServiceType</th>
+        <th>RouteName</th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model.Services)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ServiceType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RouteName)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "EditService", new { id = item.Id }) |
+                @Html.ActionLink("Delete", "DeleteService", new { id = item.Id }, new { onclick = "return confirm('Are sure wants to delete?');" })
+            </td>
+        </tr>
+    }
+
+</table> 

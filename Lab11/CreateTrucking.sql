@@ -1,0 +1,54 @@
+CREATE TABLE ServiceType (
+    Id INTEGER PRIMARY KEY AUTOINCREMENT,
+    ServiceName TEXT NOT NULL UNIQUE
+);
+
+CREATE TABLE City (
+    Id INTEGER PRIMARY KEY AUTOINCREMENT,
+    CityName TEXT NOT NULL UNIQUE
+);
+
+CREATE TABLE Route (
+    Id INTEGER PRIMARY KEY AUTOINCREMENT,
+    RouteName TEXT NOT NULL UNIQUE,
+    Distance REAL NOT NULL,
+    DeparturePoint TEXT NOT NULL,
+    ArrivalPoint TEXT NOT NULL,
+    FOREIGN KEY(DeparturePoint) REFERENCES City(CityName),
+    FOREIGN KEY(ArrivalPoint) REFERENCES City(CityName)
+);
+
+CREATE TABLE Customer (
+    Id INTEGER PRIMARY KEY AUTOINCREMENT,
+    CustomerName TEXT UNIQUE NOT NULL
+);
+
+CREATE TABLE Service (
+    Id INTEGER PRIMARY KEY AUTOINCREMENT,
+    ServiceType TEXT NOT NULL,
+    RouteName TEXT NOT NULL,
+    FOREIGN KEY(ServiceType) REFERENCES ServiceType(ServiceName),
+    FOREIGN KEY(RouteName) REFERENCES Route(RouteName)
+);
+
+CREATE TABLE "Order" (
+    Id INTEGER PRIMARY KEY AUTOINCREMENT,
+    CustomerName TEXT NOT NULL,
+    ServiceId INTEGER NOT NULL,
+    OrderDate DATETIME NOT NULL,
+    OrderExec DATETIME NOT NULL,
+    FOREIGN KEY(CustomerName) REFERENCES Customer(CustomerName),
+    FOREIGN KEY(ServiceId) REFERENCES Service(Id)
+);
+
+select * from City
+select * from Route
+
+CREATE TABLE AUDIT (
+  ID INTEGER PRIMARY KEY AUTOINCREMENT,
+  TableName TEXT NOT NULL,
+  ActionName TEXT NOT NULL,
+  RowOption TEXT NOT NULL,
+  RowNumberChanged INTEGER NOT NULL,
+  CreatedAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

@@ -1,0 +1,312 @@
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Lab2.exe
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Lab2.deps.json
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.json
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.dev.json
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Lab2.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Lab2.pdb
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\EntityFramework.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Humanizer.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.SqlServer.Types.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Data.SqlClient.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.DirectoryServices.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Drawing.Common.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Security.AccessControl.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Security.Permissions.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Windows.Extensions.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\ru\EntityFramework.resources.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.csproj.AssemblyReference.cache
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfoInputs.cache
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfo.cs
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.csproj.CoreCompileInputs.cache
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.csproj.CopyComplete
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\obj\Debug\net5.0\refint\Lab2.dll
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.pdb
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.genruntimeconfig.cache
+F:\ALEX\Programming-and-DB-security-on-the-web_3_2\Lab 2\Lab2\Lab2\obj\Debug\net5.0\ref\Lab2.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Lab2.exe
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Lab2.deps.json
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.json
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.dev.json
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Lab2.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Lab2.pdb
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\EntityFramework.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Humanizer.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.SqlServer.Types.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.DirectoryServices.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Security.AccessControl.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Security.Permissions.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Windows.Extensions.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\ru\EntityFramework.resources.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.csproj.AssemblyReference.cache
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfoInputs.cache
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfo.cs
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.csproj.CoreCompileInputs.cache
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.csproj.CopyComplete
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\obj\Debug\net5.0\refint\Lab2.dll
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.pdb
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.genruntimeconfig.cache
+E:\6sem\PaDBSotW_3_2\Labs\Lab 4\Lab 2\Lab2\Lab2\obj\Debug\net5.0\ref\Lab2.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Lab2.exe
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Lab2.deps.json
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.json
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.dev.json
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Lab2.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Lab2.pdb
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\EntityFramework.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Humanizer.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.SqlServer.Types.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.DirectoryServices.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Security.AccessControl.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\ru\EntityFramework.resources.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.csproj.AssemblyReference.cache
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfoInputs.cache
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfo.cs
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.csproj.CoreCompileInputs.cache
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.csproj.CopyComplete
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\obj\Debug\net5.0\refint\Lab2.dll
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.pdb
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\obj\Debug\net5.0\Lab2.genruntimeconfig.cache
+D:\Education\3 курс 2 сем\DB\Lab4\Lab 2\Lab2\Lab2\obj\Debug\net5.0\ref\Lab2.dll

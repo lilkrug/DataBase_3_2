@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Lab2.Route>
+
+<p>
+    @Html.ActionLink("Add New Route", "AddRoute")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.RouteName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Distance)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DeparturePoint)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ArrivalPoint)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        @Html.HiddenFor(model => item.Id)
+<tr>
+    <th>
+        @Html.DisplayFor(modelItem => item.RouteName)
+    </th>
+    <th>
+        @Html.DisplayFor(modelItem => item.Distance)
+    </th>
+    <th>
+        @Html.DisplayFor(modelItem => item.DeparturePoint)
+    </th>
+    <th>
+        @Html.DisplayFor(modelItem => item.ArrivalPoint)
+    </th>
+    <td>
+        @Html.ActionLink("Edit", "EditRoute", new { id = item.Id }) |
+        @Html.ActionLink("Delete", "DeleteRoute", new { id = item.Id }, new { onclick = "return confirm('Are sure wants to delete?');" })
+    </td>
+</tr>
+    }
+
+</table> 

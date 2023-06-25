@@ -1,0 +1,12 @@
+D:\Labs\Database\Kruglik3Lab\KruglikLab\KruglikLab\bin\Debug\KruglikLab.dll
+D:\Labs\Database\Kruglik3Lab\KruglikLab\KruglikLab\bin\Debug\KruglikLab.pdb
+D:\Labs\Database\Kruglik3Lab\KruglikLab\KruglikLab\obj\Debug\KruglikLab.csproj.AssemblyReference.cache
+D:\Labs\Database\Kruglik3Lab\KruglikLab\KruglikLab\obj\Debug\KruglikLab.csproj.CoreCompileInputs.cache
+D:\Labs\Database\Kruglik3Lab\KruglikLab\KruglikLab\obj\Debug\KruglikLab.dll
+D:\Labs\Database\Kruglik3Lab\KruglikLab\KruglikLab\obj\Debug\KruglikLab.pdb
+D:\Education\3 курс 2 сем\DB\Lab3\KruglikLab\KruglikLab\bin\Debug\KruglikLab.dll
+D:\Education\3 курс 2 сем\DB\Lab3\KruglikLab\KruglikLab\bin\Debug\KruglikLab.pdb
+D:\Education\3 курс 2 сем\DB\Lab3\KruglikLab\KruglikLab\obj\Debug\KruglikLab.csproj.AssemblyReference.cache
+D:\Education\3 курс 2 сем\DB\Lab3\KruglikLab\KruglikLab\obj\Debug\KruglikLab.csproj.CoreCompileInputs.cache
+D:\Education\3 курс 2 сем\DB\Lab3\KruglikLab\KruglikLab\obj\Debug\KruglikLab.dll
+D:\Education\3 курс 2 сем\DB\Lab3\KruglikLab\KruglikLab\obj\Debug\KruglikLab.pdb

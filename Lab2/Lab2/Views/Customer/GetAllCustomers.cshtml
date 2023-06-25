@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Lab2.Customer>
+
+<p>
+    @Html.ActionLink("Add New Customer", "AddCustomer")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CustomerName)
+        </th>
+        
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        @Html.HiddenFor(model => item.Id)
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerName)
+            </td>
+           
+            <td>
+                @Html.ActionLink("Edit", "EditCustomer", new { id = item.Id }) |
+                @Html.ActionLink("Delete", "DeleteCustomer", new { id = item.Id }, new { onclick = "return confirm('Are sure wants to delete?');" })
+            </td>
+        </tr>
+    }
+
+</table> 
